@@ -1,4 +1,4 @@
-# ENTRI_PYTHON_PROJECTS
+# PYTHON PROJECTS
 
 ## Overview
 
