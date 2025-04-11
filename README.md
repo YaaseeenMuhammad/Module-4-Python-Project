@@ -36,13 +36,15 @@
 
 4. Insights & Findings
 
-	•	Most employees belong to Team X.
+	•	Most employees belong to Team New Orleans Pelicans.
 
-	•	The most common age group is 25–30 years.
+	•	The most common age group is 20-30 years.
 
- 	•	The highest salary expenditure is in Team Y, Position Z.
+ 	•	Most employees are in the position SG.
 	
- 	•	There is a positive/negative correlation between age and salary.
+ 	•	The highest salary expenditure is in Team Cleveland Cavaliers, Position C.
+
+	•	There is a Positive/Negative correlation between age and salary it is around 0.21.
 
 ⸻
 
