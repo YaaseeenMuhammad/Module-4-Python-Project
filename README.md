@@ -16,7 +16,7 @@
 
 	•	✅ Ensured data consistency by checking for duplicate rows and removing unnecessary columns.
 
-3. Data Analysis
+2. Data Analysis
    
 	•	📊 Employee distribution by team (with percentage calculation).
 
@@ -28,20 +28,26 @@
 	
  	•	📊 Analyzed correlation between age and salary.
 
-5. Data Visualization
-	•	Used bar charts, pie charts, histograms, and scatter plots to display insights.
+3. Data Visualization
+	
+ 	•	Used bar charts, pie charts, histograms, and scatter plots to display insights.
 
 ⸻
 
-Insights & Findings
+4. Insights & Findings
+
 	•	Most employees belong to Team X.
+
 	•	The most common age group is 25–30 years.
-	•	The highest salary expenditure is in Team Y, Position Z.
-	•	There is a positive/negative correlation between age and salary.
+
+ 	•	The highest salary expenditure is in Team Y, Position Z.
+	
+ 	•	There is a positive/negative correlation between age and salary.
 
 ⸻
 
-Tools & Technologies Used
-	•	Python (Pandas, NumPy, Matplotlib, Seaborn)
-	•	Jupyter Notebook
-	•	Git for version control
+5. Tools & Technologies Used
+	
+ 	•	Python (Pandas, NumPy, Matplotlib, Seaborn)
+	
+ 	•	Jupyter Notebook
