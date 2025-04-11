@@ -1,33 +1,39 @@
-# Module-4-Python-Project
+# ENTRI_PYTHON_PROJECTS
 
-📌 Steps Followed in the Project.
+## Overview
 
-1️⃣ Data Preprocessing
+### This project focuses on data preprocessing, analysis, and visualization to extract insights from employee-related data. The steps undertaken include data cleaning, statistical analysis, and visual representation using Python.
 
-✅ Checked for missing values and handled them.
+⸻
 
-✅ Fixed incorrect data in the Height column by replacing values with random numbers between 150-180.
+#### Steps Followed in the Project
 
-✅ Ensured data consistency by checking for duplicate rows and unnecessary columns.
+1. Data Preprocessing
+	•	✅ Checked for missing values and handled them.
+	•	✅ Fixed incorrect data in the Height column by replacing values with random numbers between 150–180.
+	•	✅ Ensured data consistency by checking for duplicate rows and removing unnecessary columns.
 
-2️⃣ Data Analysis
+2. Data Analysis
+	•	📊 Employee distribution by team (with percentage calculation).
+	•	📊 Employee segregation by position.
+	•	📊 Predominant age group analysis.
+	•	📊 Identified team and position with the highest salary expenditure.
+	•	📊 Analyzed correlation between age and salary.
 
-📊 Employee Distribution by Team (with percentage calculation).
+3. Data Visualization
+	•	Used bar charts, pie charts, histograms, and scatter plots to display insights.
 
-📊 Employee Segregation by Position.
+⸻
 
-📊 Predominant Age Group Analysis.
+Insights & Findings
+	•	Most employees belong to Team X.
+	•	The most common age group is 25–30 years.
+	•	The highest salary expenditure is in Team Y, Position Z.
+	•	There is a positive/negative correlation between age and salary.
 
-📊 Team & Position with the Highest Salary Expenditure.
+⸻
 
-📊 Correlation Between Age and Salary.
-
-3️⃣ Visualizations Used bar charts, pie charts, histograms, and scatter plots for data insights.
-
-📌 Insights & Findings 🔹 Most employees belong to Team X.
-
-🔹 The most common age group is 25-30 years.
-
-🔹 The highest salary expenditure is in Team Y, Position Z.
-
-🔹 There is a positive/negative correlation between age and salary.
+Tools & Technologies Used
+	•	Python (Pandas, NumPy, Matplotlib, Seaborn)
+	•	Jupyter Notebook
+	•	Git for version control
